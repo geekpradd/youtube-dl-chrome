@@ -2,6 +2,7 @@
 
 This is a Chrome Extension and Flask Server to open up YouTube DL (which BTW is a terminal YouTube Video downloading utlity). Usage is very simple, just click on the Browser action in Chrome (load the youtube-dl-chrome folder as an extension first and run the Flask Script) and the Terminal should pop open running YouTube DL.
 
+This is the core development repository. All development will done in this fork rather than the main repo.
 ##Installation
 
 Firstly, download YouTube-DL from <a href="http://rg3.github.io/youtube-dl/download.html"> here</a>.
@@ -35,4 +36,4 @@ Presently 2 configuration options are available (a quality option will be availa
 
 ##About
 
-Created By Pradipta (geekpradd) and Aritra (thekindlyone) using HTML5, Javascript, Chrome APIs, Python, Flask and YouTube-DL. 
+Created By Pradipta (geekpradd)  using HTML5, Javascript, Chrome APIs, Python, Flask and YouTube-DL. Thanks to the kindlyone for the Flask Server.
